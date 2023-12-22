@@ -10,4 +10,4 @@ Choose Sign up for GitHub, and then follow the instructions.
 
 Address
 dno:3/456
-village:boyanapalli
+village:k.boyanapalli
